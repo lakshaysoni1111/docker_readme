@@ -18,6 +18,32 @@ Window Subsystem for Linux was missing. Also the setting up distro was missing.
 Command for checking the state : wsl -l -v  
 Command for checking the list of valid distributions : wsl -l -o  
 Command for installing distribution : wsl --install <distro>  
-Command for switching Daemon :  & 'C:\Program Files\Docker\Docker\DockerCli.exe' -SwitchDaemon 
+Command for switching Daemon :  & 'C:\Program Files\Docker\Docker\DockerCli.exe' -SwitchDaemon  
+  
+## Steps that can be more clear 
+Cloning and unzipping of the github file should be more clear.  
+  
+Addition of docker file should be explained more.  
+
+## Running app as a container
+Documentation : https://docs.docker.com/get-started/02_our_app/  present here provides enough guide to run file as a docker container and can be used to deploy 
+and maintain applications.  
+
+### Examples of Docker Containers running:
+strange_chaplygin :  
+  Images used:  
+  https://github.com/nginxinc/docker-nginx  
+  https://github.com/alpinelinux/docker-alpine  
+  
+  
+  
+
+  
+  
+  
+  
+ 
+  
+  
   
 
