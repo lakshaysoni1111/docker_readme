@@ -3,8 +3,8 @@ I had given a task to completely install and run docker desktop in my laptop. Af
 
 ## Installing Docker Desktop
 Installation of Docker Desktop was easy as we follows the documentation provided to us.  
-refer:
-https://docs.docker.com/desktop/
+[refer:]
+(https://docs.docker.com/desktop/)
 
 ## Running Docker Dekstop
 It was a difficult task to launch Docker Desktop successfully.
@@ -26,14 +26,16 @@ Cloning and unzipping of the github file should be more clear.
 Addition of docker file should be explained more.  
 
 ## Running app as a container
-Documentation : https://docs.docker.com/get-started/02_our_app/  present here provides enough guide to run file as a docker container and can be used to deploy 
+[Documentation:] (https://docs.docker.com/get-started/02_our_app/)  present here provides enough guide to run file as a docker container and can be used to deploy 
 and maintain applications.  
 
 ### Examples of Docker Containers running:
 strange_chaplygin :  
   Images used:  
-  https://github.com/nginxinc/docker-nginx  
-  https://github.com/alpinelinux/docker-alpine  
+  [refer:]  
+  
+  (https://github.com/nginxinc/docker-nginx)  
+  (https://github.com/alpinelinux/docker-alpine)  
   
   
   
